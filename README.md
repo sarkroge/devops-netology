@@ -13,3 +13,5 @@
 - файлы логов сбоев `crash.log` и `crash.*.log`;
 - конфигурационные файлы Terraform CLI `.terraformrc` и `terraform.rc`;
 - файлы плана `*.tfplan`.
+
+Добавлено изменение в ветке fix
